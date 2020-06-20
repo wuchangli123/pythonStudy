@@ -30,7 +30,7 @@ for  i  in range(1,days+1):
         MountCost = MountCost + price
     print(f'当前累计消费{MountCost}')
 print('%.2f' %MountCost)
-
+print("hello world")
 
 
 
